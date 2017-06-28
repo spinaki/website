@@ -1,4 +1,4 @@
-baseurl = "/"  # End your URL with a `/` trailing slash.
+baseurl = "https://pinaki.xyz/"  # End your URL with a `/` trailing slash.
 title = "Pinaki Sinha's Space"
 copyright = "&copy; 2018 Pinaki Sinha"
 theme = "academic"
@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   organization = "Cofounder @ Krumbs"
   organization_url = "https://www.krumbs.net/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "[FirstInitialOfMyLastName][MyFirstName]@gmail.com"
   address = ""
   office_hours = ""
@@ -160,15 +160,9 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Experiences"
-  url = "#experiences"
-  weight = 3
-
-[[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 4
-
 
 [[menu.main]]
   name = "Contact"
