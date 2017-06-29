@@ -128,10 +128,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:[FirstInitialOfMyLastName][MyFirstName]@gmail.com"
 
-  #[[params.social]]
-  #  icon = "twitter"
-  #  icon_pack = "fa"
-  #  link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+   icon = "linkedin"
+   icon_pack = "fa"
+   link = "https://www.linkedin.com/in/pinaki-sinha-3b8b3811/"
 
   [[params.social]]
     icon = "google-scholar"

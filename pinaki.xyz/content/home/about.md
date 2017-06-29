@@ -38,4 +38,4 @@ weight = 1
 
 # Biography
 
-I am hacker and like to build things. Have worked extensively on server side systems (ML/IR/Graph/Pipelines, etc), Maps and have experience on using sensors and building libraries on Android.
+I am a hacker and like to build things. Recently, I have been working on the Android platform. I enjoy working with the camera and other sensors present on Android devices.  I have also worked  on server side systems (ML/IR/Graph/Data Pipelines, etc), Maps and API Services.
